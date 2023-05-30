@@ -58,7 +58,7 @@ bool isSafe(int arr[9][9],int currRow,int currCol,int num){
 
 // We try to solve the sudoku here
 bool solve(int arr[9][9]){
-  bool emptyLeft = true; // Assuming at beginning there are empty boxes
+  bool emptyLeft = true; // Assuming at beginning there are no empty boxes
   int row = -1; 
   int col = -1;
   
