@@ -5,5 +5,15 @@ This is my attempt to create Sudoku Solver using Backtracking
 
 ### Here are some images
 
-## This is input
-<img src = "images/input.png"/>
+<table>
+    <th>This is input</th>
+    <th>This is output</th>
+    <tr>
+        <td>
+            <img src = "images/input.png" />
+        </td>
+        <td>
+            <img src = "images/output.png" />
+        </td>
+    </tr>
+</table>
